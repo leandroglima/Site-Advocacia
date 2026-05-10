@@ -36,10 +36,10 @@
 
 /* LOGO */
 .logo {
-  max-width: 300px;
+  max-width: 250px;
+  width: 100%;
   height: auto;
-  flex-shrink: 0;
-  filter: brightness(0) invert(1);
+  object-fit: contain;
 }
 
 /* MENU */
